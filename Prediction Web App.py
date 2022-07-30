@@ -75,4 +75,4 @@ if st.button("Predict the number of share rides today"):
     pred = model.predict(values.reshape(1, -1))
     st.success(f"The expected number of share rides today is {int(pred)} rides with 80% Probability ")
     
-streamlit run Prediction Web App.py    
+
