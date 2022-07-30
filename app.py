@@ -16,7 +16,7 @@ x2 = pd.read_csv("trainfinal.csv")
 y2 = pd.read_csv("yfinal.csv")
 
 # %%
-model = pkl.load(open("Bike-Sharing-Prediction-Machine-Learning-Web-App/the_model.pkl", "rb"))
+model = pkl.load(open("Bike-Sharing-Prediction-Machine-Learning-Web-App\the_model.pkl", "rb"))
 
 # %%
 st.title("Bike Sharing Prediction")
