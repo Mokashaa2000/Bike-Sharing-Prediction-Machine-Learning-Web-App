@@ -1,7 +1,7 @@
 
 # Bike Sharing Prediction web app
 
-Welcome to my machine learning app where you can predict the number of bike shares based on historical data
+Welcome to my machine learning app where you can predict the number of bike shares based on historical datas
 
 
 
